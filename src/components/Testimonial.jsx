@@ -15,7 +15,7 @@ export default function Testimonial() {
     },
     {
       id: 2,
-      name: 'Sarah Wijaya',
+      name: 'Sarah Wijayanti',
       role: 'Cafe Owner',
       image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop',
       projectImage: 'https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=2047&auto=format&fit=crop',
