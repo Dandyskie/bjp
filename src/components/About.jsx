@@ -38,7 +38,7 @@ export default function About() {
             
             {/* Floating Experience Card */}
             <div className="absolute -bottom-8 -right-8 bg-blue-600 text-white p-8 rounded-3xl shadow-xl hidden md:block">
-              <div className="text-5xl font-bold mb-2">15+</div>
+              <div className="text-5xl font-bold mb-2">16+</div>
               <div className="text-blue-100 font-medium">Years of building<br />excellence</div>
             </div>
           </motion.div>
