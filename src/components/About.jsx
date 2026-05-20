@@ -54,7 +54,7 @@ export default function About() {
               About Bangun Jaya Putra
             </span>
             <h2 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-6 leading-tight">
-              We Build Modern Spaces That Inspire
+              We Build Modern Spaces That Inspire.
             </h2>
             <p className="text-slate-600 text-lg mb-8 leading-relaxed">
               We are a premium contractor and architecture firm dedicated to creating exceptional living and working environments. With a focus on modern design, quality craftsmanship, and seamless execution, we turn your vision into reality without the hassle.
